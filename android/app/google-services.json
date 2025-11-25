@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826069435270",
+    "project_id": "ecanteen-be268",
+    "storage_bucket": "ecanteen-be268.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826069435270:android:904534c47bf74515dfe207",
+        "android_client_info": {
+          "package_name": "com.example.e_canteen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkJvwYGnHtTtqAH1re7QJ9hKuxomaFtLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
